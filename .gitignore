@@ -1,0 +1,15 @@
+# Secrets réels — ne jamais committer
+config_reseau.py
+**/config_reseau.py
+secrets.py
+.env
+.env.*
+*.key
+*.pem
+
+# Fichiers de travail
+__pycache__/
+*.pyc
+*.mpy
+.DS_Store
+Thumbs.db
